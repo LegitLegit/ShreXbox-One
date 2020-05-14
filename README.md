@@ -1,2 +1,2 @@
 # ShreXbox-One
-Emulator 
+ShreXbox One is a website based on Shrek games. 
